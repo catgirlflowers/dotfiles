@@ -5,7 +5,8 @@
 this is the first rice ive ever made, uses a few plugins to get an animated background from wallpaper engine & pretty window borders~
 the main colours i had in mind are green and beige for this one with a little bit of pink!! has a custom colour scheme for kde and kitty terminal~
 
-
+# installation instructions:
+- apply the .konsave file, install & setup needed plugins / programs, and paste the config files from the folder into their respective folders in your system
 ### ps. this is for kde :p
 
 # plugins & programs needed:
@@ -14,6 +15,7 @@ the main colours i had in mind are green and beige for this one with a little bi
 - [KDE-Rounded-Corners by matinlotfali](https://github.com/matinlotfali/KDE-Rounded-Corners)
 > in case the auto-reinstall script given out doesnt work (some qdbus6 fuckery idk), check out my custom test-install.sh file in the configs folder and place it at /KDE-Rounded-Corners/tools/ instead of the equivalent file there
 
+- konsave
 - kitty (terminal)
 - fish (shell)
 - fastfetch
