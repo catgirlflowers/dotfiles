@@ -12,7 +12,6 @@ the main colours i had in mind are green and beige for this one with a little bi
 - [wallpaper-engine-kde-plugin by catsout](https://github.com/catsout/wallpaper-engine-kde-plugin) (requires wallpaper engine on steam)
 > wallpaper: <https://steamcommunity.com/sharedfiles/filedetails/?id=2468489223>
 - [KDE-Rounded-Corners by matinlotfali](https://github.com/matinlotfali/KDE-Rounded-Corners)
-> in case the auto-reinstall script given out doesnt work (some qdbus6 fuckery idk), check out my custom test-install.sh file in the configs folder and place it at /KDE-Rounded-Corners/tools/ instead of the equivalent file there
 
 - konsave
 - kitty (terminal)
@@ -21,7 +20,6 @@ the main colours i had in mind are green and beige for this one with a little bi
 
 # configs & such in the configs folder:
 - custom colour scheme for kde
-- rounded corners plugin auto-reinstall fix mentioned above
 - kitty config
 - fish config
 - fastfetch config
